@@ -18,4 +18,4 @@ Today I learn about
 3.Input and Print Functions
 4.Variable Naming Rules
 
-More info [here](Day 1/Day1.md)
+More info [here](Day 1\Day1.md)
