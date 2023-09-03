@@ -13,9 +13,29 @@ Date Signed: 02-09-2023
 ## Day 1 
 Today I learn about
 
-1.Variables in Python
-2.String Manipulation
-3.Input and Print Functions
-4.Variable Naming Rules
+* 1.Variables in Python
+* 2.String Manipulation
+* 3.Input and Print Functions
+* 4.Variable Naming Rules
 
-More info [here](Day 1\Day1.md)
+I build a project called _(Band_Name_Generator)_
+About my project: it's a band name generator. And it asks you for a city that you grew up in and the name of your pet.
+And then it combines those together and gives you the name of your band.
+
+More info [here](Day1\Day1.md)
+
+## Day 2
+Today I learn about
+
+* Mathematical Operations in Python
+* DataTypes
+* Converting types
+* f-strings
+
+I build a project called _(tip calculator)_
+About my project: I build a tip calculator. It says, welcome to the tip calculator.
+It asks you for the total bill that you need to pay, then it asks you how many people do you want to
+split the bill between? and then what percentage tip would you like to give?. Now it's going to calculate
+what each person should pay.
+
+More info [here](Day2\Day2.md)
