@@ -13,10 +13,10 @@ Date Signed: 02-09-2023
 ## Day 1 
 Today I learn about
 
-* 1.Variables in Python
-* 2.String Manipulation
-* 3.Input and Print Functions
-* 4.Variable Naming Rules
+* Variables in Python
+* String Manipulation
+* Input and Print Functions
+* Variable Naming Rules
 
 I build a project called _(Band_Name_Generator)_
 About my project: it's a band name generator. And it asks you for a city that you grew up in and the name of your pet.
@@ -39,3 +39,22 @@ split the bill between? and then what percentage tip would you like to give?. No
 what each person should pay.
 
 More info [here](Day2\Day2.md)
+
+## Day 3
+Today I learn about
+
+* Conditional statements
+* Logical operators
+* Code blocks
+* Scop
+
+### Project
+
+1. roller coaster ticket management 
+2. BMI calculator
+3. Leap year
+4. Pizza order
+5. Love calculator
+6. Treasure island (Final project)
+
+More info [here](100_Days_of_Python\Day3\Day3.md)
