@@ -58,3 +58,20 @@ Today I learn about
 6. Treasure island (Final project)
 
 More info [here](100_Days_of_Python\Day3\Day3.md)
+
+## Day 4
+Today I learn about
+
+* Randomisation
+* Error Handling
+
+### Project
+
+1. Who will pay the bill
+2. Heades or tails
+3. Tresure mape
+4. list
+5. random 
+6. Final_project (Rock paper scissors Game)
+
+More info [here](100_Days_of_Python\Day3\Day3.md)
