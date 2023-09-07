@@ -22,7 +22,7 @@ I build a project called _(Band_Name_Generator)_
 About my project: it's a band name generator. And it asks you for a city that you grew up in and the name of your pet.
 And then it combines those together and gives you the name of your band.
 
-More info [here](Day1\Day1.md)
+More info [here](Day1/Day1.md)
 
 ## Day 2
 Today I learn about
@@ -38,7 +38,7 @@ It asks you for the total bill that you need to pay, then it asks you how many p
 split the bill between? and then what percentage tip would you like to give?. Now it's going to calculate
 what each person should pay.
 
-More info [here](Day2\Day2.md)
+More info [here](Day2/day2.md)
 
 ## Day 3
 Today I learn about
@@ -50,14 +50,14 @@ Today I learn about
 
 ### Project
 
-1. roller coaster ticket management 
+1. Roller coaster ticket management 
 2. BMI calculator
 3. Leap year
 4. Pizza order
 5. Love calculator
 6. Treasure island (Final project)
 
-More info [here](100_Days_of_Python\Day3\Day3.md)
+More info [here](Day3/Day3.md)
 
 ## Day 4
 Today I learn about
@@ -70,8 +70,25 @@ Today I learn about
 1. Who will pay the bill
 2. Heades or tails
 3. Tresure mape
-4. list
-5. random 
+4. List
+5. Random 
 6. Final_project (Rock paper scissors Game)
 
-More info [here](100_Days_of_Python\Day3\Day3.md)
+More info [here](Day4/Day4.md)
+
+## Day 5
+Today I learn about
+
+* Code blocks and Indentation
+* For Loops
+* Flowchart Programming
+
+### Project
+
+1. Average Height of a group of people
+2. Fizz Buzz Game 
+3. High score of a group of student
+4. Adding even number
+5. Final_project Password Genarator
+
+More info [here](Day5/Day5.md)
