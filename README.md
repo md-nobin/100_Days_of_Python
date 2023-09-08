@@ -92,3 +92,22 @@ Today I learn about
 5. Final_project Password Genarator
 
 More info [here](Day5/Day5.md)
+
+## Day 6
+Today I learn about
+
+* Code Blocks
+* Indentation
+* Functions
+* While Loops
+
+ I compleat this 4 challenges from Reeborg's World
+[here](https://reeborg.ca/reeborg.html?lang=en&mode=python&menu=worlds%2Fmenus%2Freeborg_intro_en.json&name=Alone&url=worlds%2Ftutorial_en%2Falone.json)
+
+
+1. Hurdles 1
+2. Hurdles 2
+3. Hurdles 3
+4. Hurdles 4
+
+More info [here](Day6/Day6.md)
