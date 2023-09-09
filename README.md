@@ -9,7 +9,7 @@ I will become a Python developer.
 I believe in myself.
 
 Date Signed: 02-09-2023
-
+***
 ## Day 1 
 Today I learn about
 
@@ -22,8 +22,8 @@ I build a project called _(Band_Name_Generator)_
 About my project: it's a band name generator. And it asks you for a city that you grew up in and the name of your pet.
 And then it combines those together and gives you the name of your band.
 
-More info [here](Day1/Day1.md)
-
+More info [here](Day1)
+***
 ## Day 2
 Today I learn about
 
@@ -38,8 +38,8 @@ It asks you for the total bill that you need to pay, then it asks you how many p
 split the bill between? and then what percentage tip would you like to give?. Now it's going to calculate
 what each person should pay.
 
-More info [here](Day2/day2.md)
-
+More info [here](Day2)
+***
 ## Day 3
 Today I learn about
 
@@ -57,8 +57,8 @@ Today I learn about
 5. Love calculator
 6. Treasure island (Final project)
 
-More info [here](Day3/Day3.md)
-
+More info [here](Day3)
+***
 ## Day 4
 Today I learn about
 
@@ -74,8 +74,8 @@ Today I learn about
 5. Random 
 6. Final_project (Rock paper scissors Game)
 
-More info [here](Day4/Day4.md)
-
+More info [here](Day4)
+***
 ## Day 5
 Today I learn about
 
@@ -91,8 +91,8 @@ Today I learn about
 4. Adding even number
 5. Final_project Password Genarator
 
-More info [here](Day5/Day5.md)
-
+More info [here](Day5)
+***
 ## Day 6
 Today I learn about
 
@@ -110,4 +110,19 @@ Today I learn about
 3. Hurdles 3
 4. Hurdles 4
 
-More info [here](Day6/Day6.md)
+More info [here](Day6)
+
+***
+## Day 7
+Today i review some previous concept
+what i have already covered. and i build a Hangman game
+
+* For and while Loops
+* IF / Else
+* List
+* Strings
+* Range
+* Modules
+More info [here](Day7)
+
+***
