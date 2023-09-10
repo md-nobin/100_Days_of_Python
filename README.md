@@ -126,3 +126,13 @@ what i have already covered. and i build a Hangman game
 More info [here](Day7)
 
 ***
+## Day 8
+today i learn about 
+ 
+* Function with inputs
+* Arguments & Parameters
+
+### Project
+
+Caesar Cipher : Today i build a caesar cipher program. It can encrypt a random message  best one user shift number,
+and it can decrypt the message by correct shift number. 
