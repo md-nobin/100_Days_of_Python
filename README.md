@@ -126,13 +126,24 @@ what i have already covered. and i build a Hangman game
 More info [here](Day7)
 
 ***
-## Day 8
+## Day 9
 today i learn about 
- 
-* Function with inputs
-* Arguments & Parameters
 
-### Project
 
-Caesar Cipher : Today i build a caesar cipher program. It can encrypt a random message  best one user shift number,
-and it can decrypt the message by correct shift number. 
+## Blind Auction
+
+Click "Open Preview" above to see this file rendered with the markdown.
+
+e
+
+
+
+
+# My console doesn't clear!
+
+This will happen if you’re using an IDE other than replit (e.g., VSCode, PyCharm etc). Similar to how we used the "random" module previously, in this project we will use the "replit" module. The clear function is available here via the replit module without any extra configuration. I’ll cover how to use PyCharm and import modules on Day 15. That said, you can write your own clear() function or configure your IDE like so: 
+
+
+
+
+
