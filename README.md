@@ -127,7 +127,7 @@ More info [here](Day7)
 
 ***
 ## Day 8
-today i learn about 
+Today i learn about 
  
 * Function with inputs
 * Arguments & Parameters
@@ -137,7 +137,7 @@ and it can decrypt the message by correct shift number.
 ***
 
 ## Day 9
-today i learn about 
+Today i learn about 
 
 * python Dictionaries and list
 
@@ -150,13 +150,29 @@ I’ll cover how to use PyCharm in Day 15. That said, you can write your own cle
 ***
 
 ## Day 10
- today i learn about
+ Today i learn about
 
 * positional keyword and argument
 * function with output
 
 ***
 
+## Day 11
 
+Today i review all of my previous concept and i apply them in my 
+Blackjack project.
+
+About my project : Blackjack Strategy
+1. When the value of dealer's revealed card is 4,5 or 6, it may be fruitful to double your bet with an Ace and 4 in hand.
+
+2. You may want to surrender if you have 16 in your hand while the dealer has a 9,10 or A.
+
+3. You should always split if you have a pair of Aces.
+
+4. If you get a pair of 7s, only press hit if the dealer has 8,9,10 or Ace.
+
+More info [here](Day11)
+
+***
 
 
