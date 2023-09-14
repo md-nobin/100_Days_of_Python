@@ -175,4 +175,13 @@ More info [here](Day11)
 
 ***
 
+## Day 12
 
+Today i learn about
+
+* Local variable
+* Global variable
+
+More info [here](Day%2012/Day12.md)
+
+***
