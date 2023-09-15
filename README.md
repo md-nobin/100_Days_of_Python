@@ -185,3 +185,12 @@ Today i learn about
 More info [here](Day%2012/Day12.md)
 
 ***
+## Day 13
+
+today i learn about bug fixing
+
+* i solved 10 problems
+
+More info [here](Day13)
+
+***
