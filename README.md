@@ -187,10 +187,15 @@ More info [here](Day%2012/Day12.md)
 ***
 ## Day 13
 
-today i learn about bug fixing
+Today i learn about bug fixing
 
 * i solved 10 problems
 
 More info [here](Day13)
 
+***
+
+## Day 14
+
+Today i build a game called "higher-lower" More info [here](Day14)
 ***
