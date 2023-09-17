@@ -199,3 +199,15 @@ More info [here](Day13)
 
 Today i build a game called "higher-lower" More info [here](Day14)
 ***
+
+## Day 15
+
+Today i setup my local development environment.
+I install python and Pycharm on my  machine.
+
+Project : In this hole day i work in a big project .
+I build a coffee machine program
+
+More info [here](Day15)
+
+****
