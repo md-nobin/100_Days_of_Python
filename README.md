@@ -211,3 +211,16 @@ I build a coffee machine program
 More info [here](Day15)
 
 ****
+
+## Day 16
+
+Today i learn about OOP and python Packages
+
+* Object
+* Class
+* Constructing objects
+* PyPi
+
+Project : I rebuild the Coffee Machine using OOP
+
+More info [here](Day16)
