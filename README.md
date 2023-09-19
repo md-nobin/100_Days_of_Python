@@ -214,7 +214,7 @@ More info [here](Day15)
 
 ## Day 16
 
-Today i learn about OOP and python Packages
+Today I learn about OOP and python Packages
 
 * Object
 * Class
@@ -224,3 +224,17 @@ Today i learn about OOP and python Packages
 Project : I rebuild the Coffee Machine using OOP
 
 More info [here](Day16)
+
+## Day 17
+
+Today I learn about Classes
+
+* The Benefits of OOP 
+* Create Class
+* Working with attributes
+* Class constructors
+*  The \_\_init__() Function
+
+Project : Today i build a quiz game using oop 
+
+More info [here](Day17)
