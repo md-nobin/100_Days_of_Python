@@ -114,8 +114,8 @@ More info [here](Day6)
 
 ***
 ## Day 7
-Today i review some previous concept
-what i have already covered. and i build a Hangman game
+Today I review some previous concept
+what I have already covered. and i build a Hangman game
 
 * For and while Loops
 * IF / Else
@@ -127,17 +127,17 @@ More info [here](Day7)
 
 ***
 ## Day 8
-Today i learn about 
+Today I learn about 
  
 * Function with inputs
 * Arguments & Parameters
 
-Today i build a caesar cipher program. It can encrypt a random message  best one user shift number,
+Today I build a caesar cipher program. It can encrypt a random message  best one user shift number,
 and it can decrypt the message by correct shift number. 
 ***
 
 ## Day 9
-Today i learn about 
+Today I learn about 
 
 * python Dictionaries and list
 
@@ -150,7 +150,7 @@ I’ll cover how to use PyCharm in Day 15. That said, you can write your own cle
 ***
 
 ## Day 10
- Today i learn about
+ Today I learn about
 
 * positional keyword and argument
 * function with output
@@ -159,7 +159,7 @@ I’ll cover how to use PyCharm in Day 15. That said, you can write your own cle
 
 ## Day 11
 
-Today i review all of my previous concept and i apply them in my 
+Today I review all of my previous concept and i apply them in my 
 Blackjack project.
 
 About my project : Blackjack Strategy
@@ -177,7 +177,7 @@ More info [here](Day11)
 
 ## Day 12
 
-Today i learn about
+Today I learn about
 
 * Local variable
 * Global variable
@@ -187,7 +187,7 @@ More info [here](Day%2012/Day12.md)
 ***
 ## Day 13
 
-Today i learn about bug fixing
+Today I learn about bug fixing
 
 * i solved 10 problems
 
@@ -197,12 +197,12 @@ More info [here](Day13)
 
 ## Day 14
 
-Today i build a game called "higher-lower" More info [here](Day14)
+Today I build a game called "higher-lower" More info [here](Day14)
 ***
 
 ## Day 15
 
-Today i setup my local development environment.
+Today I set up my local development environment.
 I install python and Pycharm on my  machine.
 
 Project : In this hole day i work in a big project .
@@ -235,6 +235,22 @@ Today I learn about Classes
 * Class constructors
 *  The \_\_init__() Function
 
-Project : Today i build a quiz game using oop 
+Project : Today I build a quiz game using oop 
 
 More info [here](Day17)
+
+***
+
+## Day 18
+
+Today I learn about 
+
+* Import Modules
+* Install Packages
+* Aliases
+* Turtle Graphics
+* Tuples
+
+More info [here](Day18)
+
+***
