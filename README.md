@@ -254,3 +254,10 @@ Today I learn about
 More info [here](Day18)
 
 ***
+
+## Day 19
+
+Today I learn more about Turtle_Graphics, Higher Order Functions and Event Listeners
+More info [here](Day19)
+
+***
