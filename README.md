@@ -261,3 +261,16 @@ Today I learn more about Turtle_Graphics, Higher Order Functions and Event Liste
 More info [here](Day19)
 
 ***
+
+## Day 20
+
+Today I build a snake game
+
+More info [here](Day20)
+
+***
+## Day 21
+
+Today I Make version 2 of snake game. More info [here](Day21)
+
+***
