@@ -134,6 +134,8 @@ Today I learn about
 
 Today I build a caesar cipher program. It can encrypt a random message  best one user shift number,
 and it can decrypt the message by correct shift number. 
+
+More info [here](Day8)
 ***
 
 ## Day 9
@@ -147,6 +149,8 @@ This will happen if you’re using an IDE other than replit.
 
 
 I’ll cover how to use PyCharm in Day 15. That said, you can write your own clear() function or configure your IDE like so
+
+More info [here](Day9)
 ***
 
 ## Day 10
@@ -155,6 +159,7 @@ I’ll cover how to use PyCharm in Day 15. That said, you can write your own cle
 * positional keyword and argument
 * function with output
 
+More info [here](Day10)
 ***
 
 ## Day 11
@@ -271,6 +276,20 @@ More info [here](Day20)
 ***
 ## Day 21
 
-Today I Make version 2 of snake game. More info [here](Day21)
+Today I Make version 2 of snake game. 
+
+More info [here](Day21)
+
+***
+
+## Day 22
+Today I learn more about
+
+* Class
+* Method
+* Object
+* Class Inheritance
+
+I build The Pong Game More info [here](Day22)
 
 ***
