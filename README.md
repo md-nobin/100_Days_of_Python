@@ -293,3 +293,9 @@ Today I learn more about
 I build The Pong Game More info [here](Day22)
 
 ***
+## Day 23
+Today I learn about :
+* Constructor
+* Inheritance
+
+Capstone Project :   __Turtle Crossing Game__ More info [here](Day23)
