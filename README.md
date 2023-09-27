@@ -299,3 +299,20 @@ Today I learn about :
 * Inheritance
 
 Capstone Project :   __Turtle Crossing Game__ More info [here](Day23)
+***
+## Day 24
+Today I learn about :
+
+* File I/O reading and writing to local files 
+
+Project and more info [here](Day24)
+***
+## Day 25
+I learn about:
+
+* File Directories
+* Reading and Writing to CSV
+* Pandas Framework
+
+Project and more info [here](Day25)
+***
