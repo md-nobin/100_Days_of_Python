@@ -316,3 +316,12 @@ I learn about:
 
 Project and more info [here](Day25)
 ***
+
+## Day 26
+
+I learn about:
+
+* List Comprehensions
+* Dictionary Comprehensions
+
+Project and more info [here](Day26)
