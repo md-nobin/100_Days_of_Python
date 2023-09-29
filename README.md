@@ -325,3 +325,14 @@ I learn about:
 * Dictionary Comprehensions
 
 Project and more info [here](Day26)
+***
+## Day 27
+Today I learn about :
+
+* Creating Desktop GUI Apps with Tkinter
+
+
+Project and more info [here](Day27)
+
+
+***
