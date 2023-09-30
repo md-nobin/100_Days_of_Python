@@ -336,3 +336,10 @@ Project and more info [here](Day27)
 
 
 ***
+## Day 2
+Today I learn about :
+* Application's User Interface (UI)
+* Strongly Dynamic Typing
+
+Pomodoro project and more info [here](Day28)
+***
