@@ -336,7 +336,7 @@ Project and more info [here](Day27)
 
 
 ***
-## Day 2
+## Day 28
 Today I learn about :
 * Application's User Interface (UI)
 * Strongly Dynamic Typing
