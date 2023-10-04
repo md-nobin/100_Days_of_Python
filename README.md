@@ -359,7 +359,7 @@ more info [here](Day29)
 ***
 ## Day 30
 
-Today learn about:
+Today I learn about:
 
 * Error Handling and Exceptions
 * Try / Except/ Raise
@@ -387,4 +387,13 @@ more info [here](Day30)
 ## Day 31
 Successfully compleat day 31
 project and more info [here](Day31)
+***
+## Day 32
+Today I learn about:
+* Sending Email with Python and SMTP
+* Working with date and time
+* Hosting Python Code Online with PythonAnywhere
+
+Successfully compleat day 32
+project and more info [here](Day32)
 ***
