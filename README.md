@@ -397,3 +397,12 @@ Today I learn about:
 Successfully compleat day 32
 project and more info [here](Day32)
 ***
+
+## Day 33
+Today I learn about:
+* API
+* Making HTTP Requests with the Requests module
+* Sending Parameters with the Request
+
+project and more info [here](Day33)
+***
