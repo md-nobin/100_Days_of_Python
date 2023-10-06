@@ -406,3 +406,11 @@ Today I learn about:
 
 project and more info [here](Day33)
 ***
+## Day 34
+
+Successfully compleat day 34
+
+Today I build a Quiz app using ___opentdb___ api
+
+more info [here](Day34)
+***
