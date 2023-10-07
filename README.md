@@ -414,3 +414,28 @@ Today I build a Quiz app using ___opentdb___ api
 
 more info [here](Day34)
 ***
+## Day 35
+Today I learn about:
+
+* APIs with Authentication
+* Sending SMS with Python
+
+Project: I build A app for rain alart. It can analise upcoming 12 hoar weather data. 
+and it will provide a weather update sms at 7am.
+
+## How to use the _weather alart app_:
+
+Step_1 : At first you have to create a premium api key from open weather map.
+
+Step_2 : Provide your api key.
+
+Step_3 : Get your lat and lon value from latlong.com and provide it.
+
+Step_4 : Create your own virtual number from TWILIO and provide it.
+
+Step_5 : Insert your number where you want to get the alert sms.
+
+Step_6 : That's it , you are done 😊
+
+more info [here](Day35)
+***
