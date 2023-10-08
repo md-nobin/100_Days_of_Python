@@ -1,0 +1,1 @@
+This program will send stock market data and news in you mobile vaia sms
