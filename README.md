@@ -115,7 +115,7 @@ More info [here](Day6)
 ***
 ## Day 7
 Today I review some previous concept
-what I have already covered. and i build a Hangman game
+what I have already covered. and I build a Hangman game
 
 * For and while Loops
 * IF / Else
@@ -164,7 +164,7 @@ More info [here](Day10)
 
 ## Day 11
 
-Today I review all of my previous concept and i apply them in my 
+Today I review all of my previous concept and I apply them in my 
 Blackjack project.
 
 About my project : Blackjack Strategy
@@ -210,7 +210,7 @@ Today I build a game called "higher-lower" More info [here](Day14)
 Today I set up my local development environment.
 I install python and Pycharm on my  machine.
 
-Project : In this hole day i work in a big project .
+Project : In this hole day I work in a big project .
 I build a coffee machine program
 
 More info [here](Day15)
@@ -444,9 +444,22 @@ successfully compleat day 36
 
 project and more info [here](Day36)
 ***
- & Headers
-## Day 36
-compleat day 37
-* API Post Requests
+## Day 37
+Compleat day 37
+
+Today I learn about:
+
+* API Post Requests & Headers
+
 Habit Tracking Project and more info [here](Day37)
+***
+## Day 38
+Compleat day 38
+
+Exercise sheet Project and more info [here](Day38)
+***
+## Day 39
+Compleat day 39
+
+Flight Deals Project and more info [here](Day39)
 ***
