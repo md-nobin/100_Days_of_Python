@@ -463,3 +463,8 @@ Compleat day 39
 
 Flight Deals Project and more info [here](Day39)
 ***
+## Day 40
+Compleat day 39
+
+Flight_Deals_Project_V2  more info [here](Day40)
+***
