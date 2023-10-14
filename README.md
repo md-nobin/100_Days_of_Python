@@ -473,3 +473,8 @@ Compleat day 41
 
 HTML Personal site project; more info [here](Day41)
 ***
+## Day 42
+Compleat day 42
+
+HTML Personal site project; more info [here](Day42)
+***
