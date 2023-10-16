@@ -476,5 +476,15 @@ HTML Personal site project; more info [here](Day41)
 ## Day 42
 Compleat day 42
 
-HTML Personal site project; more info [here](Day42)
+HTML Personal site project more info [here](Day42)
+***
+## Day 43
+Compleat day 43. I learn about css.
+
+Personal site project. more info [here](Day43)
+***
+## Day 44
+Compleat day 44. I learn about css.
+
+Personal site project.  more info [here](Day44)
 ***
