@@ -11,7 +11,7 @@ def home():
 
 @app.route("/post")
 def post():
-    return render_template("/post.html")
+    return render_template("post.html")
 
 
 @app.route("/about")
@@ -19,7 +19,7 @@ def about():
     return render_template("about.html")
 
 
-@app.route("/contact")
+@app.route("/templates/contact")
 def contact():
     return render_template("contact.html")
 
