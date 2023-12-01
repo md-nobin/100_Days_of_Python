@@ -6,19 +6,17 @@ from flask_login import UserMixin, login_user, LoginManager, login_required, cur
 app = Flask(__name__)
 app.config['SECRET_KEY'] = 'secret-key-goes-here'
 
-# CONNECT TO DB
 app.config['SQLALCHEMY_DATABASE_URI'] = 'sqlite:///users.db'
 db = SQLAlchemy()
 db.init_app(app)
 
 
-# CREATE TABLE IN DB
 class User(db.Model):
     id = db.Column(db.Integer, primary_key=True)
     email = db.Column(db.String(100), unique=True)
     password = db.Column(db.String(100))
     name = db.Column(db.String(1000))
- 
+
  
 with app.app_context():
     db.create_all()
@@ -29,8 +27,24 @@ def home():
     return render_template("index.html")
 
 
-@app.route('/register')
+@app.route('/register', methods=["GET", "POST"])
 def register():
+    if request.method == "POST":
+
+        hash_and_salted_password = generate_password_hash(
+            request.form.get("password"),
+            method="pbkdf2:sha256",
+            salt_length=8
+        )
+        new_user = User(
+            email=request.form.get("email"),
+            name=request.form.get("name"),
+            password=hash_and_salted_password
+        )
+        db.session.add(new_user)
+        db.session.commit()
+
+        return render_template("secrets.html", name=request.form.get("name"))
     return render_template("register.html")
 
 
@@ -51,7 +65,7 @@ def logout():
 
 @app.route('/download')
 def download():
-    pass
+    return send_from_directory("static", path="files/cheat_sheet.pdf")
 
 
 if __name__ == "__main__":
