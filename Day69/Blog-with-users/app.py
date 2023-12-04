@@ -25,20 +25,21 @@ def load_user(user_id):
     return db.get_or_404(User, user_id)
 
 
+def admin_only(f):
+    @wraps(f)
+    def decorated_fun(*args, **kwargs):
+        if current_user.is_authenticated:
+            if current_user.id != 1:
+                return abort(403)
+        else:
+            return abort(403)
+        return f(*args, **kwargs)
+    return decorated_fun
+
+
 app.config['SQLALCHEMY_DATABASE_URI'] = 'sqlite:///posts.db'
 db = SQLAlchemy()
 db.init_app(app)
-
-
-class BlogPost(db.Model):
-    __tablename__ = "blog_posts"
-    id = db.Column(db.Integer, primary_key=True)
-    title = db.Column(db.String(250), unique=True, nullable=False)
-    subtitle = db.Column(db.String(250), nullable=False)
-    date = db.Column(db.String(250), nullable=False)
-    body = db.Column(db.Text, nullable=False)
-    author = db.Column(db.String(250), nullable=False)
-    img_url = db.Column(db.String(250), nullable=False)
 
 
 class User(UserMixin, db.Model):
@@ -47,6 +48,21 @@ class User(UserMixin, db.Model):
     email = db.Column(db.String(100), unique=True)
     password = db.Column(db.String(100))
     name = db.Column(db.String(100))
+    posts = relationship("BlogPost", back_populates="author")
+
+# sqlalchemy.exc.InvalidRequestError: back_populates on relationship 'User.posts' refers to attribute 'BlogPost.author' that is not a relationship. The back_populates parameter should refer to the name of a relationship on the target class.
+
+
+class BlogPost(db.Model):
+    __tablename__ = "blog_posts"
+    id = db.Column(db.Integer, primary_key=True)
+    author_id = db.Column(db.Integer, db.ForeignKey("users.id"))
+    title = db.Column(db.String(250), unique=True, nullable=False)
+    subtitle = db.Column(db.String(250), nullable=False)
+    date = db.Column(db.String(250), nullable=False)
+    body = db.Column(db.Text, nullable=False)
+    author = db.Column(db.String(250), nullable=False)
+    img_url = db.Column(db.String(250), nullable=False)
 
 
 with app.app_context():
@@ -121,8 +137,8 @@ def show_post(post_id):
     return render_template("post.html", post=requested_post, current_user=current_user)
 
 
-# TODO: Use a decorator so only an admin user can create a new post
 @app.route("/new-post", methods=["GET", "POST"])
+@admin_only
 def add_new_post():
     form = CreatePostForm()
     if form.validate_on_submit():
@@ -142,6 +158,7 @@ def add_new_post():
 
 # TODO: Use a decorator so only an admin user can edit a post
 @app.route("/edit-post/<int:post_id>", methods=["GET", "POST"])
+@admin_only
 def edit_post(post_id):
     post = db.get_or_404(BlogPost, post_id)
     edit_form = CreatePostForm(
@@ -164,6 +181,7 @@ def edit_post(post_id):
 
 # TODO: Use a decorator so only an admin user can delete a post
 @app.route("/delete/<int:post_id>")
+@admin_only
 def delete_post(post_id):
     post_to_delete = db.get_or_404(BlogPost, post_id)
     db.session.delete(post_to_delete)
