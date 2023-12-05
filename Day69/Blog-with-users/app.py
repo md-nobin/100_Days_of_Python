@@ -42,17 +42,6 @@ db = SQLAlchemy()
 db.init_app(app)
 
 
-class User(UserMixin, db.Model):
-    __tablename__ = "users"
-    id = db.Column(db.Integer, primary_key=True)
-    email = db.Column(db.String(100), unique=True)
-    password = db.Column(db.String(100))
-    name = db.Column(db.String(100))
-    posts = relationship("BlogPost", back_populates="author")
-
-# sqlalchemy.exc.InvalidRequestError: back_populates on relationship 'User.posts' refers to attribute 'BlogPost.author' that is not a relationship. The back_populates parameter should refer to the name of a relationship on the target class.
-
-
 class BlogPost(db.Model):
     __tablename__ = "blog_posts"
     id = db.Column(db.Integer, primary_key=True)
@@ -61,8 +50,18 @@ class BlogPost(db.Model):
     subtitle = db.Column(db.String(250), nullable=False)
     date = db.Column(db.String(250), nullable=False)
     body = db.Column(db.Text, nullable=False)
-    author = db.Column(db.String(250), nullable=False)
+    author = relationship("User", back_populates="posts")
     img_url = db.Column(db.String(250), nullable=False)
+
+
+
+class User(UserMixin, db.Model):
+    __tablename__ = "users"
+    id = db.Column(db.Integer, primary_key=True)
+    email = db.Column(db.String(100), unique=True)
+    password = db.Column(db.String(100))
+    name = db.Column(db.String(100))
+    posts = relationship("BlogPost", back_populates="author")
 
 
 with app.app_context():
@@ -156,7 +155,6 @@ def add_new_post():
     return render_template("make-post.html", form=form, current_user=current_user)
 
 
-# TODO: Use a decorator so only an admin user can edit a post
 @app.route("/edit-post/<int:post_id>", methods=["GET", "POST"])
 @admin_only
 def edit_post(post_id):
@@ -200,4 +198,4 @@ def contact():
 
 
 if __name__ == "__main__":
-    app.run(debug=True, port=5002)
+    app.run(debug=True)
