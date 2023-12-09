@@ -30,21 +30,14 @@ def about():
 def contact():
     if request.method == "POST":
         data = request.form
-        data = request.form
         send_email(data["name"], data["email"], data["phone"], data["message"])
         return render_template("contact.html", msg_sent=True)
-    return render_template("contact.html", meg_sent=False)
+    return render_template("contact.html", msg_sent=False)
 
 
 def send_email(name, email, phone, message):
-    email_message = f"subject: New message \n \n {name}\nEmail: {email}\nPhone: {phone}\nMessage: {message}"
-
-    server = smtplib.SMTP("smtp.gmail.com", 587)
-    server.starttls()
-
-    server.login(os.getenv("my_gmail"), os.getenv("password"))
-
-    server.sendmail(os.getenv("my_gmail"), os.getenv("my_gmail"), email_message)
-
-
-
+    email_message = f"Subject:New Message\n\nName: {name}\nEmail: {email}\nPhone: {phone}\nMessage:{message}"
+    with smtplib.SMTP("smtp.gmail.com") as connection:
+        connection.starttls()
+        connection.login(os.getenv("my_gmail"), os.getenv("password"))
+        connection.sendmail(os.getenv("my_gmail"), os.getenv("my_gmail"), email_message)
