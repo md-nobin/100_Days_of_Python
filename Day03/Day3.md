@@ -1,4 +1,3 @@
-Today I learn about
 
 * Conditional statements
 * Logical operators
