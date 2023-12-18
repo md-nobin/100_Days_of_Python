@@ -1,4 +1,3 @@
-Today I learn about
 
 * Randomisation
 * Error Handling
