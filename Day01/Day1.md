@@ -1,6 +1,4 @@
-## Day 1 
-
-Today I learn about
+## Day 1
 
 * Variables in Python
 * String Manipulation
