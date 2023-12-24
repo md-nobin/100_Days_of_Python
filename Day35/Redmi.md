@@ -1,3 +1,9 @@
+* **APIs with Authentication**
+* **Sending SMS with Python**
+
+Project: I build A app for rain alart. It can analise upcoming 12 hoar weather data. 
+and it will provide a weather update sms at 7am.
+
 How to use the app:
 
 Step_1 : At first you have to create a premium api key from
