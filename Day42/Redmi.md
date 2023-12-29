@@ -1,6 +1,7 @@
 Today I learn about:
 
 - HTML from
-- HTML Table. and other HTML tags
+- HTML Tabel 
+- Devlop contact form using html.
 
-Improved cv website with html.
+Improved cv website.
