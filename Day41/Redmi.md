@@ -1,1 +1,5 @@
-Today I learn about deffrentes types of html tags. I build my cv website with html.
+**Objective:** Learn about different types of html tags. Build my cv website with html.
+
+- **HTML List**
+- **HTML Form**
+- **Input fild and more..**
