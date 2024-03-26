@@ -1,101 +1,178 @@
-## 📜 𝐁𝐞𝐠𝐢𝐧𝐧𝐞𝐫
+## 📜 Beginner
 
-- 𝐒𝐭𝐫𝐢𝐧𝐠 𝐌𝐚𝐧𝐢𝐩𝐮𝐥𝐚𝐭𝐢𝐨𝐧 
-- 𝐈𝐧𝐩𝐮𝐭 𝐚𝐧𝐝 𝐏𝐫𝐢𝐧𝐭 𝐅𝐮𝐧𝐜𝐭𝐢𝐨𝐧𝐬 
-- 𝐕𝐚𝐫𝐢𝐚𝐛𝐥𝐞 𝐍𝐚𝐦𝐢𝐧𝐠 𝐑𝐮𝐥𝐞𝐬 
-- 𝐌𝐚𝐭𝐡𝐞𝐦𝐚𝐭𝐢𝐜𝐚𝐥 𝐎𝐩𝐞𝐫𝐚𝐭𝐢𝐨𝐧𝐬 𝐢𝐧 𝐏𝐲𝐭𝐡𝐨𝐧 
-- 𝐃𝐚𝐭𝐚𝐓𝐲𝐩𝐞𝐬 𝐂𝐨𝐧𝐯𝐞𝐫𝐭𝐢𝐧𝐠 𝐭𝐲𝐩𝐞𝐬
-- 𝐂𝐨𝐧𝐝𝐢𝐭𝐢𝐨𝐧𝐚𝐥𝐬 𝐈𝐅/𝐄𝐋𝐈𝐅/𝐄𝐋𝐒𝐄 
-- 𝐋𝐨𝐠𝐢𝐜𝐚𝐥 𝐎𝐩𝐞𝐫𝐚𝐭𝐨𝐫𝐬 
-- 𝐑𝐚𝐧𝐝𝐨𝐦𝐢𝐬𝐚𝐭𝐢𝐨𝐧 
-- 𝐄𝐫𝐫𝐨𝐫 𝐇𝐚𝐧𝐝𝐥𝐢𝐧𝐠 
-- 𝐅𝐮𝐧𝐜𝐭𝐢𝐨𝐧𝐬 
-- 𝐅𝐨𝐫 𝐋𝐨𝐨𝐩𝐬 
-- 𝐂𝐨𝐝𝐞 𝐛𝐥𝐨𝐜𝐤𝐬 𝐚𝐧𝐝 𝐈𝐧𝐝𝐞𝐧𝐭𝐚𝐭𝐢𝐨𝐧 
-- 𝐖𝐡𝐢𝐥𝐞 𝐋𝐨𝐨𝐩𝐬 
-- 𝐅𝐥𝐨𝐰𝐜𝐡𝐚𝐫𝐭 𝐏𝐫𝐨𝐠𝐫𝐚𝐦𝐦𝐢𝐧𝐠 
-- 𝐏𝐨𝐬𝐢𝐭𝐢𝐨𝐧𝐚𝐥 𝐚𝐧𝐝 𝐊𝐞𝐲𝐰𝐨𝐫𝐝 𝐀𝐫𝐠𝐮𝐦𝐞𝐧𝐭𝐬 
-- 𝐏𝐲𝐭𝐡𝐨𝐧 𝐃𝐢𝐜𝐭𝐢𝐨𝐧𝐚𝐫𝐢𝐞𝐬 𝐚𝐧𝐝 𝐋𝐢𝐬𝐭𝐬 
-- 𝐍𝐞𝐬𝐭𝐞𝐝 𝐂𝐨𝐥𝐥𝐞𝐜𝐭𝐢𝐨𝐧𝐬 
-- 𝐑𝐞𝐭𝐮𝐫𝐧𝐢𝐧𝐠 𝐅𝐮𝐧𝐜𝐭𝐢𝐨𝐧𝐬 
-- 𝐑𝐞𝐭𝐮𝐫𝐧 𝐯𝐬. 𝐏𝐫𝐢𝐧𝐭 
-- 𝐃𝐨𝐜 𝐒𝐭𝐫𝐢𝐧𝐠𝐬 𝐯𝐬. 𝐂𝐨𝐦𝐦𝐞𝐧𝐭𝐬 
-- 𝐒𝐜𝐨𝐩𝐞 𝐚𝐧𝐝 𝐋𝐨𝐜𝐚𝐥/𝐆𝐥𝐨𝐛𝐚𝐥 𝐕𝐚𝐫𝐢𝐚𝐛𝐥𝐞𝐬 
-- 𝐃𝐞𝐛𝐮𝐠𝐠𝐢𝐧𝐠 𝐓𝐞𝐜𝐡𝐧𝐢𝐪𝐮𝐞𝐬
+- String Manipulation
+- Input and Print Functions
+- Variable Naming Rules
+- Mathematical Operations in Python
+- Data Types Converting types
+- Conditionals IF/ELIF/ELSE
+- Logical Operators
+- Randomization
+- Error Handling
+- Functions
+- For Loops
+- Code blocks and Indentation
+- While Loops
+- Flowcharts Programming
+- Positional and Keyword Arguments
+- Python Dictionaries and Lists
+- Nested Collections
+- Returning Functions
+- Return vs. Print
+- Docstrings vs. Comments
+- Scope and Local/Global Variables
+- Debugging Techniques
 
-## 📖 𝐈𝐧𝐭𝐞𝐫𝐦𝐞𝐝𝐢𝐚𝐭𝐞  
+## 📖 Intermediate  
 
-- 𝐋𝐨𝐜𝐚𝐥 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐦𝐞𝐧𝐭 𝐄𝐧𝐯𝐢𝐫𝐨𝐧𝐦𝐞𝐧𝐭 𝐒𝐞𝐭𝐮𝐩 
-- 𝐏𝐲𝐂𝐡𝐚𝐫𝐦 𝐓𝐢𝐩𝐬 𝐚𝐧𝐝 𝐓𝐫𝐢𝐜𝐤𝐬 
-- 𝐏𝐲𝐭𝐡𝐨𝐧 𝐎𝐛𝐣𝐞𝐜𝐭 𝐎𝐫𝐢𝐞𝐧𝐭𝐞𝐝 𝐏𝐫𝐨𝐠𝐫𝐚𝐦𝐦𝐢𝐧𝐠 
-- 𝐂𝐫𝐞𝐚𝐭𝐢𝐧𝐠 𝐂𝐥𝐚𝐬𝐬𝐞𝐬 𝐢𝐧 𝐏𝐲𝐭𝐡𝐨𝐧 
-- 𝐔𝐬𝐢𝐧𝐠 𝐄𝐱𝐭𝐞𝐫𝐧𝐚𝐥 𝐏𝐲𝐭𝐡𝐨𝐧 𝐌𝐨𝐝𝐮𝐥𝐞𝐬
-- 𝐈𝐦𝐩𝐨𝐫𝐭 𝐆𝐞𝐭𝐭𝐢𝐧𝐠 / 𝐒𝐞𝐭𝐭𝐢𝐧𝐠 𝐀𝐭𝐭𝐫𝐢𝐛𝐮𝐭𝐞𝐬 
-- 𝐏𝐲𝐭𝐡𝐨𝐧 𝐌𝐞𝐭𝐡𝐨𝐝𝐬 
-- 𝐂𝐥𝐚𝐬𝐬 𝐈𝐧𝐢𝐭𝐢𝐚𝐥𝐢𝐬𝐞𝐫𝐬 
-- 𝐌𝐨𝐝𝐮𝐥𝐞 𝐀𝐥𝐢𝐚𝐬𝐢𝐧𝐠 
-- 𝐎𝐩𝐭𝐢𝐨𝐧𝐚𝐥, 𝐑𝐞𝐪𝐮𝐢𝐫𝐞𝐝 𝐚𝐧𝐝 𝐃𝐞𝐟𝐚𝐮𝐥𝐭 𝐏𝐚𝐫𝐚𝐦𝐞𝐭𝐞𝐫𝐬 
-- 𝐄𝐯𝐞𝐧𝐭 𝐋𝐢𝐬𝐭𝐞𝐧𝐭𝐞𝐫𝐬 
-- 𝐏𝐲𝐭𝐡𝐨𝐧 𝐈𝐧𝐬𝐭𝐚𝐧𝐜𝐞𝐬 𝐚𝐧𝐝 𝐒𝐭𝐚𝐭𝐞 
-- 𝐏𝐲𝐭𝐡𝐨𝐧 𝐓𝐮𝐫𝐭𝐥𝐞 
-- 𝐆𝐚𝐦𝐞 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐦𝐞𝐧𝐭 𝐰𝐢𝐭𝐡 𝐏𝐲𝐭𝐡𝐨𝐧 𝐚𝐧𝐝 𝐎𝐎𝐏 
-- 𝐏𝐲𝐭𝐡𝐨𝐧 𝐈𝐧𝐡𝐞𝐫𝐢𝐭𝐚𝐧𝐜𝐞 
-- 𝐏𝐲𝐭𝐡𝐨𝐧 𝐒𝐥𝐢𝐜𝐞 𝐅𝐮𝐧𝐜𝐭𝐢𝐨𝐧 
-- 𝐅𝐢𝐥𝐞 𝐈/𝐎 𝐑𝐞𝐚𝐝𝐢𝐧𝐠 𝐚𝐧𝐝 𝐖𝐫𝐢𝐭𝐢𝐧𝐠 𝐭𝐨 𝐋𝐨𝐜𝐚𝐥 𝐅𝐢𝐥𝐞𝐬 
-- 𝐅𝐢𝐥𝐞 𝐃𝐢𝐫𝐞𝐜𝐭𝐨𝐫𝐢𝐞𝐬 
-- 𝐑𝐞𝐚𝐝𝐢𝐧𝐠 𝐚𝐧𝐝 𝐖𝐫𝐢𝐭𝐢𝐧𝐠 𝐭𝐨 𝐂𝐒𝐕 
-- 𝐈𝐧𝐭𝐫𝐨𝐝𝐮𝐜𝐭𝐢𝐨𝐧 𝐭𝐨 𝐭𝐡𝐞 𝐏𝐚𝐧𝐝𝐚𝐬 𝐅𝐫𝐚𝐦𝐞𝐰𝐨𝐫𝐤 
-- 𝐋𝐢𝐬𝐭 𝐂𝐨𝐦𝐩𝐫𝐞𝐡𝐞𝐧𝐬𝐢𝐨𝐧𝐬 
-- 𝐃𝐢𝐜𝐭𝐢𝐨𝐧𝐚𝐫𝐲 𝐂𝐨𝐦𝐩𝐫𝐞𝐡𝐞𝐧𝐬𝐢𝐨𝐧𝐬
+- Local Development Environment Setup
+- PyCharm Tips and Tricks
+- Python Object Oriented Programming
+- Creating Classes in Python
+- Using External Python Modules
+- Import Getting / Setting Attributes
+- Python Methods
+- Classical Inheritance
+- Module Aliasing
+- Optional, Required and Default Parameters
+- Web Scraping with BeautifulSoup
+- Browser Automation with Selenium Webdriver
+- Automated Testing with Pytest
+- Data Visualization with Matplotlib
+- Exception Handling
+- Regular Expressions in Python
+- Command Line Arguments
+- File Input/Output Operations
 
-# 📔 𝐈𝐧𝐭𝐞𝐫𝐦𝐞𝐝𝐢𝐚𝐭𝐞+
+# 📔 Intermediate+
 
-- 𝐀𝐏𝐈𝐬 
-- 𝐌𝐚𝐤𝐢𝐧𝐠 𝐇𝐓𝐓𝐏 𝐑𝐞𝐪𝐮𝐞𝐬𝐭𝐬 𝐰𝐢𝐭𝐡 𝐭𝐡𝐞 𝐑𝐞𝐪𝐮𝐞𝐬𝐭𝐬 𝐦𝐨𝐝𝐮𝐥𝐞 
-- 𝐒𝐞𝐧𝐝𝐢𝐧𝐠 𝐏𝐚𝐫𝐚𝐦𝐞𝐭𝐞𝐫𝐬 𝐰𝐢𝐭𝐡 𝐭𝐡𝐞 𝐑𝐞𝐪𝐮𝐞𝐬𝐭 
-- 𝐀𝐏𝐈𝐬 𝐰𝐢𝐭𝐡 𝐀𝐮𝐭𝐡𝐞𝐧𝐭𝐢𝐜𝐚𝐭𝐢𝐨𝐧 
-- 𝐒𝐞𝐧𝐝𝐢𝐧𝐠 𝐒𝐌𝐒 𝐰𝐢𝐭𝐡 𝐏𝐲𝐭𝐡𝐨𝐧 
-- 𝐖𝐞𝐛 𝐒𝐜𝐫𝐚𝐩𝐢𝐧𝐠 𝐰𝐢𝐭𝐡 𝐁𝐞𝐚𝐮𝐭𝐢𝐟𝐮𝐥 𝐒𝐨𝐮𝐩
-- 𝐁𝐫𝐨𝐰𝐬𝐞𝐫 𝐀𝐮𝐭𝐨𝐦𝐚𝐭𝐢𝐨𝐧 𝐰𝐢𝐭𝐡 𝐒𝐞𝐥𝐞𝐧𝐢𝐮𝐦 𝐖𝐞𝐛 𝐃𝐫𝐢𝐯𝐞𝐫
-- 𝐀𝐮𝐭𝐨𝐦𝐚𝐭𝐢𝐧𝐠 𝐓𝐢𝐧𝐝𝐞𝐫
-- 𝐀𝐮𝐭𝐨𝐦𝐚𝐭𝐢𝐧𝐠 𝐓𝐰𝐢𝐭𝐭𝐞𝐫
-- 𝐀𝐮𝐭𝐨𝐦𝐚𝐭𝐢𝐧𝐠 𝐋𝐢𝐧𝐤𝐞𝐝𝐈𝐧
-- 𝐀𝐮𝐭𝐨𝐦𝐚𝐭𝐢𝐧𝐠 𝐈𝐧𝐬𝐭𝐚𝐠𝐫𝐚𝐦
-- 𝐖𝐞𝐛 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐦𝐞𝐧𝐭 𝐰𝐢𝐭𝐡 𝐅𝐥𝐚𝐬𝐤
-- 𝐂𝐨𝐦𝐦𝐚𝐧𝐝 𝐋𝐢𝐧𝐞
-- 𝐏𝐲𝐭𝐡𝐨𝐧 𝐃𝐞𝐜𝐨𝐫𝐚𝐭𝐨𝐫𝐬
-- 𝐓𝐞𝐦𝐩𝐥𝐚𝐭𝐢𝐧𝐠 𝐰𝐢𝐭𝐡 𝐉𝐢𝐧𝐣𝐚 𝟐
-- 𝐖𝐓𝐅𝐨𝐫𝐦𝐬
+- APIs
+- Making HTTP Requests with the Requests module
+- Sending Parameters with the Requests module
+- APIs with Authentication
+- Sending SMS with Python
+- Web Scraping with Beautiful Soup
+- Browser Automation with Selenium
+- Automation with AutoIt
+- Web Development with Flask
+- Hosting Flask Applications
+- Deployment Strategies with Pandas
+- Creating Charts with Matplotlib
+- Advanced Data Analysis
+- Working with JSON files
+- RESTful API Design and Development
+- Non-Parametric Regression
+- Statistics T-Tests and Histograms with Seaborn
+- Multivariate Regression
+- Linear Combinations with Matplotlib
+- Using Jupyter Notebooks
+- Web Scraping with Beautiful Soup
+- Creating Web Charts with Plotly
+- Creating Dashboards
+- Plotly Dash with Flask
+- Creating Interactive Web Applications
+- Running Regular Expressions with re
+- Non-Parametric Regression
+- Statistics T-Tests and Histograms with Seaborn
+- Multivariate Regression
+- Linear Combinations with Matplotlib
+- Using Jupyter Notebooks
+- Web Scraping with Beautiful Soup
+- Creating Web Charts with Plotly
+- Creating Dashboards
+- Plotly Dash with Flask
+- Creating Interactive Web Applications
+- Running Regular Expressions with re
+- Directory Comprehensions
+- File Iteration
+- Command Line Arguments
+- Functional Programming Techniques
 
-## 🏆 𝐀𝐝𝐯𝐚𝐧𝐜𝐞𝐝
-- 𝐁𝐮𝐢𝐥𝐝 𝐘𝐨𝐮𝐫 𝐎𝐰𝐧 𝐑𝐄𝐒𝐓 𝐀𝐏𝐈 𝐰𝐢𝐭𝐡 𝐏𝐲𝐭𝐡𝐨𝐧
-- 𝐁𝐮𝐢𝐥𝐝 𝐘𝐨𝐮𝐫 𝐎𝐰𝐧 𝐁𝐥𝐨𝐠
-- 𝐃𝐚𝐭𝐚𝐛𝐚𝐬𝐞𝐬 𝐰𝐢𝐭𝐡 𝐒𝐐𝐋𝐢𝐭𝐞
-- 𝐃𝐚𝐭𝐚𝐟𝐫𝐚𝐦𝐞 𝐈𝐧𝐬𝐩𝐞𝐜𝐭𝐢𝐨𝐧
-- 𝐃𝐚𝐭𝐚 𝐂𝐥𝐞𝐚𝐧𝐢𝐧𝐠
-- 𝐒𝐨𝐫𝐭𝐢𝐧𝐠 𝐕𝐚𝐥𝐮𝐞𝐬 𝐢𝐧 𝐃𝐚𝐭𝐚𝐟𝐫𝐚𝐦𝐞𝐬
-- 𝐀𝐫𝐢𝐭𝐡𝐦𝐚𝐭𝐢𝐜 𝐎𝐩𝐞𝐫𝐚𝐭𝐢𝐨𝐧𝐬 𝐰𝐢𝐭𝐡 𝐏𝐚𝐧𝐝𝐚𝐬
-- 𝐂𝐫𝐞𝐚𝐭𝐢𝐧𝐠 𝐏𝐢𝐯𝐨𝐭 𝐓𝐚𝐛𝐥𝐞𝐬
-- 𝐂𝐡𝐚𝐢𝐧𝐢𝐧𝐠 𝐅𝐮𝐧𝐜𝐭𝐢𝐨𝐧𝐬
-- 𝐒𝐦𝐨𝐨𝐭𝐡𝐢𝐧𝐠 𝐓𝐢𝐦𝐞 𝐒𝐞𝐫𝐢𝐞𝐬 𝐃𝐚𝐭𝐚
-- 𝐂𝐫𝐞𝐚𝐭𝐢𝐧𝐠 𝐋𝐢𝐧𝐞 𝐂𝐡𝐚𝐫𝐭𝐬 𝐰𝐢𝐭𝐡 𝐌𝐚𝐭𝐩𝐥𝐨𝐭𝐥𝐢𝐛
-- 𝐔𝐬𝐢𝐧𝐠 𝐉𝐮𝐩𝐲𝐭𝐞𝐫 𝐍𝐨𝐭𝐞𝐛𝐨𝐨𝐤
-- 𝐇𝐓𝐌𝐋 𝐌𝐚𝐫𝐤𝐝𝐨𝐰𝐧
-- 𝐂𝐫𝐞𝐚𝐭𝐢𝐧𝐠 𝐒𝐜𝐚𝐭𝐭𝐞𝐫𝐩𝐥𝐨𝐭𝐬 𝐰𝐢𝐭𝐡 𝐌𝐚𝐭𝐩𝐥𝐨𝐭𝐥𝐢𝐛
-- 𝐔𝐬𝐢𝐧𝐠 𝐉𝐮𝐩𝐲𝐭𝐞𝐫 𝐍𝐨𝐭𝐞𝐛𝐨𝐨𝐤
-- 𝐂𝐫𝐞𝐚𝐭𝐢𝐧𝐠 𝐒𝐜𝐚𝐭𝐭𝐞𝐫𝐩𝐥𝐨𝐭𝐬 𝐰𝐢𝐭𝐡 𝐏𝐥𝐨𝐭𝐥𝐲
-- 𝐑𝐞𝐥𝐚𝐭𝐢𝐨𝐧𝐚𝐥 𝐃𝐚𝐭𝐚𝐛𝐚𝐬𝐞 𝐒𝐜𝐡𝐞𝐦𝐚𝐬
-- 𝐃𝐞𝐬𝐜𝐫𝐢𝐩𝐭𝐢𝐯𝐞 𝐒𝐭𝐚𝐭𝐢𝐬𝐭𝐢𝐜𝐬
-- 𝐂𝐫𝐞𝐚𝐭𝐢𝐧𝐠 𝐁𝐚𝐫 𝐂𝐡𝐚𝐫𝐭𝐬, 𝐏𝐢𝐞 𝐂𝐡𝐚𝐫𝐭𝐬, 𝐃𝐨𝐧𝐮𝐭 𝐂𝐡𝐚𝐫𝐭𝐬 𝐰𝐢𝐭𝐡
-- 𝐏𝐥𝐨𝐭𝐥𝐲
-- 𝐂𝐫𝐞𝐚𝐭𝐢𝐧𝐠 𝐍𝐮𝐦𝐏𝐲 𝐍𝐃𝐀𝐫𝐫𝐚𝐲𝐬
-- 𝐀𝐫𝐫𝐚𝐲 𝐒𝐥𝐢𝐜𝐢𝐧𝐠 𝐚𝐧𝐝 𝐒𝐮𝐛𝐬𝐞𝐭𝐭𝐢𝐧𝐠
-- 𝐌𝐚𝐭𝐫𝐢𝐱 𝐌𝐮𝐥𝐭𝐢𝐩𝐥𝐢𝐜𝐚𝐭𝐢𝐨𝐧
-- 𝐁𝐢𝐭𝐰𝐢𝐬𝐞 𝐚𝐧𝐝 𝐎𝐩𝐞𝐫𝐚𝐭𝐨𝐫𝐬 𝐢𝐧 𝐏𝐚𝐧𝐝𝐚𝐬
-- 𝐂𝐫𝐞𝐚𝐭𝐢𝐧𝐠 𝐁𝐮𝐛𝐛𝐥𝐞 𝐂𝐡𝐚𝐫𝐭𝐬 𝐰𝐢𝐭𝐡 𝐒𝐞𝐚𝐛𝐨𝐫𝐧
-- 𝐑𝐮𝐧𝐧𝐢𝐧𝐠 𝐑𝐞𝐠𝐫𝐞𝐬𝐬𝐢𝐨𝐧𝐬 𝐰𝐢𝐭𝐡 𝐒𝐜𝐢𝐤𝐢𝐭-𝐋𝐞𝐚𝐫𝐧
-- 𝐍𝐨𝐧-𝐏𝐚𝐫𝐚𝐦𝐞𝐭𝐫𝐢𝐜 𝐑𝐞𝐠𝐫𝐞𝐬𝐬𝐢𝐨𝐧
-- 𝐒𝐭𝐮𝐝𝐞𝐧𝐭𝐬 𝐓-𝐓𝐞𝐬𝐭𝐬 𝐚𝐧𝐝 𝐇𝐢𝐬𝐭𝐨𝐠𝐫𝐚𝐦𝐬 𝐰𝐢𝐭𝐡 𝐒𝐜𝐢𝐤𝐢𝐭-𝐋𝐞𝐚𝐫𝐧
-- 𝐌𝐮𝐥𝐭𝐢-𝐕𝐚𝐫𝐢𝐚𝐛𝐥𝐞 𝐑𝐞𝐠𝐫𝐞𝐬𝐬𝐢𝐨𝐧
-- 𝐋𝐨𝐠 𝐓𝐫𝐚𝐧𝐬𝐟𝐨𝐫𝐦𝐚𝐭𝐢𝐨𝐧𝐬
-- 𝐑𝐞𝐬𝐢𝐝𝐮𝐚𝐥𝐬 𝐀𝐧𝐚𝐥𝐲𝐬𝐢𝐬
+## 🏆 Advanced
+
+- Build Your Own REST API with Python
+- Build Your Own Blog
+- Databases with SQLite
+- Dataframes with Pandas
+- Creating Pie Charts with Matplotlib
+- Browser Automation with Selenium WebDriver
+- Creating Sparklines with Matplotlib
+- Automating Tasks with Pandas
+- Creating Sunbursts with Plotly
+- Cross-Platform Web Driven Applications with
+- PyInstaller
+- Charting Functions
+- Statistics
+- Studying Pyramids and Running
+
+## 📔 Advanced+
+
+- Array Slicing and Subsetting
+- Dataframe Operations with SQLlite
+- Creating and Saving Charts in Pandas
+- Interactive Plots with Plotly
+- Advanced Statistical Analysis
+- Building and Deploying Machine Learning Models
+- Creating Beautiful Charts with Seaborn
+- Web Development with Flask and Dash
+- Automating Tasks with Pandas and OOOP
+- Creating Beautiful Charts with Seaborn
+- Running Regular Expressions with re
+- Scikit-Learn Pipelines
+- Running Regular Expressions with re
+- Scikit-Learn Pipelines
+- Creating Advanced Dashboards
+- Advanced Statistical Analysis
+- Building and Deploying Machine Learning Models
+- Machine Variable Regression
+- Error Handling and Subsetting
+- Creating Custom Plots with Matplotlib
+- Web Scraping with Requests and BeautifulSoup
+- Creating Beautiful Dashboards with Plotly Dash
+- Creating Dashboards with Plotly Dash
+- Running Regular Expressions with re
+- Directory Comprehensions
+- File Iteration
+- Command Line Arguments
+- Functional Programming Techniques
+
+
+
+## ⚙ Tools and Technologies Covered
+
+- Python 3
+- PyCharm, Jupyter Notebook, Google Colab
+- Python Scripting and Automation
+- Python Game Development
+- Web Scraping
+- Beautiful Soup
+- Selenium Web Driver
+- Request
+- WTForms
+- Data Science
+- Pandas
+- NumPy
+- Matplotlib
+- Plotly
+- Scikit learn
+- Seaborn
+- Turtle
+- Python GUI Desktop App Development
+- Tkinter
+- Front-End Web Development
+- HTML 5
+- CSS 3
+- Bootstrap 4
+- Bash Command Line
+- Git, GitHub and Version Control
+- Backend Web Development
+- Flask
+- REST
+- APIs
+- Databases
+- SQL
+- SQLite
+- PostgreSQL
+- Authentication
+- Web Design
+- Deployment with GitHub Pages, Heroku and GUnicorn
